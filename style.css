@@ -1,0 +1,47 @@
+  body {
+    background-color: #1f1f1f;
+  }
+  body{
+    background-image: url("Interesting\ glitchy.gif");
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+  .navbar a {
+    float: left;
+    padding: 12px;
+    color: #1f1f1f;
+    text-decoration: none;
+    font-size: 17px;
+    width: 31.5%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+    text-align: center; /* If you want the text to be centered */
+  }
+
+  h2 {
+  text-shadow: 0.5px 1.5px 2.5px #1f1f1f; /* Adds a shadow effect */
+  color: #1f1f1f
+}
+
+  h1 {
+  text-shadow: 0.5px 1.5px 2.5px #1f1f1f; /* Adds a shadow effect */
+  color: #1f1f1f
+}
+
+  h3 {
+  text-shadow: 0.5px 1.5px 2.5px #1f1f1f; /* Adds a shadow effect */
+  color: #1f1f1f
+}
+
+div {
+  background-color: #1f1f1f;
+  color: #f1f1f1;
+}
+
+head  {
+  top: 0;
+}
